@@ -38,4 +38,6 @@ You have no limitation of time, what we expect is to have a discussion about you
 
 To share your code, it's your choice again: send us a zip or a GitHub link!
 
+Please **do <ins>NOT</ins> submit a PR with your solution to this repository 😇**
+
 Good luck!
